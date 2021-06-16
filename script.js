@@ -85,4 +85,4 @@ prevBtn.addEventListener('click', prevSong);
 audio.addEventListener('timeupdate', updateProgress);
 
 progressContainer.addEventListener('click', setProgress);
-audio.addEventListener('ended',nextsong);
+audio.addEventListener('ended',nextSong);
